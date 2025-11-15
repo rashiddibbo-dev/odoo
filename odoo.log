@@ -1,0 +1,8 @@
+2025-11-15 12:35:25,032 46072 WARNING ? odoo.tools.config: missing --http-interface/http_interface, using 0.0.0.0 by default, will change to 127.0.0.1 in 20.0
+2025-11-15 12:35:25,032 46072 INFO ? odoo: Odoo version 19.0
+2025-11-15 12:35:25,032 46072 INFO ? odoo: addons paths: _NamespacePath(['/app/odoo/addons', '/home/jules/.local/share/Odoo/addons/19.0', '/app/addons'])
+2025-11-15 12:35:25,033 46072 INFO ? odoo: database: odoo@default:default
+2025-11-15 12:35:25,632 46072 INFO ? odoo.service.server: HTTP service (werkzeug) running on devbox:8069
+2025-11-15 12:35:25,678 46072 INFO odoo odoo.modules.loading: loading 1 modules...
+2025-11-15 12:35:25,686 46072 INFO odoo odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra)
+2025-11-15 12:35:25,714 46072 INFO odoo odoo.modules.loading: loading 57 modules...
