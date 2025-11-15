@@ -1,0 +1,6 @@
+2025-11-15 12:31:46,355 44649 WARNING ? odoo.tools.config: missing --http-interface/http_interface, using 0.0.0.0 by default, will change to 127.0.0.1 in 20.0
+2025-11-15 12:31:46,356 44649 INFO ? odoo: Odoo version 19.0
+2025-11-15 12:31:46,356 44649 INFO ? odoo: addons paths: _NamespacePath(['/app/odoo/addons', '/home/jules/.local/share/Odoo/addons/19.0', '/app/addons'])
+2025-11-15 12:31:46,356 44649 INFO ? odoo: database: odoo@default:default
+Address already in use
+Port 8069 is in use by another program. Either identify and stop that program, or start the server with a different port.
